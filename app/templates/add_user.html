@@ -1,0 +1,15 @@
+{% import "bootstrap/wtf.html" as wtf %}
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container">
+    <form method="POST">
+        <fieldset>
+            <legend> Cadastrar Usuário </legend>
+            {{ wtf.quick_form(form) }}
+        </fieldset>
+    </form>
+</div>
+
+{% endblock content %}

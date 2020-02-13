@@ -1,0 +1,18 @@
+{% import "bootstrap/wtf.html" as wtf %}
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container">
+    <form method="POST">
+        {{ form.csrf_token }}
+        <fieldset>
+            <legend> Login do Usuário </legend>
+            {{ wtf.quick_form(form) }}
+        </fieldset>
+    </form>
+
+    {% include "components/notifications.html" %}
+</div>
+
+{% endblock content %}
