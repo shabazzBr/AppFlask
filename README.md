@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-
-
-
-<h1>Filho da putta<h1>
-
-
-
-
-
-
+<!doctype html>
 <html>
-
+  <head>
+    <title>Simples aplicação Python + Flask + Docker </title>
+  </head>
+  <body>
+    
+  </body>
+</html>
