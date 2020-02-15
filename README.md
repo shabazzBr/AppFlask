@@ -1,7 +1,6 @@
 <!doctype html>
-<html>
   <head>
-    <title>Simples aplicação Python + Flask + Docker </title>
+       <title>Simples aplicação Python + Flask + Docker </title>
   </head>
   <body>
     
