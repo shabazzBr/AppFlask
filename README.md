@@ -9,7 +9,7 @@
       <li>Python 3x 🐍 </li>
       <li>Flask 1.1   🌶 </li>
       <li>Docker(Debian)🐋 </li>
-      <li>PostgreSQL 💺🎲<li>
+      <li>PostgreSQL 💺🎲</li>
   </ol>
     
 
