@@ -6,10 +6,10 @@
   
   <h3> Usando as Seguintes tecnologias : </h3>
   <ol>
-      <li>Python 3x </li>
-      <li>Flask 1.1 </li>
-      <li>Docker(Debian) </li>
-      <li>PostgreSQL</li>
+      <li>Python 3x 🐍 </li>
+      <li>Flask 1.1   🌶 </li>
+      <li>Docker(Debian)🐋 </li>
+      <li>PostgreSQL 💺🎲<li>
   </ol>
     
 
